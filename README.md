@@ -1,6 +1,6 @@
 # Chrome Dino Script
 Scripts for cheating in chrome dino game! 
-Notice: files are still not uploaded, but will be here before 2022.09.25
+Notice: some files are still not uploaded, but will be here before 2022.09.25
 ### What's this
 Some javascript codes for cheating in the chrome dino game
 ### How to use
