@@ -8,7 +8,7 @@ Some javascript codes for cheating in the chrome dino game
     - <chrome://dino> (Offline, open with chrome browser)
     - <https://www.chromedino.com> (Online website)
 2. Open dev tools (Ctrl + Shift + I or F12) and open console tab
-3. Copy the code, paste in the console and press Enter
+3. Copy the code in "console.js" , paste in the console and press Enter
 4. Enjoy yourself with your super dinosaur! 
 ### Thanks
 Thanks to my classmate Bai Yuhan, she loves playing the dino game, and she asked me how to cheat :)
