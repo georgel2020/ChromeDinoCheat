@@ -20,9 +20,9 @@ Some javascript codes for cheating in the chrome dino game
 
 2. Open dev tools (Ctrl + Shift + I or F12) and open console tab
 
-4. Copy the code in ["Scripts.js"](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts.js) , paste in the console and press Enter
+3. Copy the code in ["Scripts.js"](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts.js) , paste in the console and press Enter
 
-6. Enjoy yourself with your super dinosaur! 
+4. Enjoy yourself with your super dinosaur! 
 
 ### Thanks
 
