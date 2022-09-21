@@ -1,4 +1,5 @@
 # Chrome Dino Script
+[English](https://github.com/georgel2020/ChromeDinoScript/blob/main/README.md) [中文](https://github.com/georgel2020/ChromeDinoScript/blob/main/README-cn.md)
 Scripts for cheating in chrome dino game! 
 Notice: some files are still not uploaded, but will be here before 2022.09.25
 ### What's this
