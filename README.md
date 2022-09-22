@@ -25,6 +25,8 @@ Some javascript codes for cheating in the chrome dino game
     - [ImmortalScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/ImmortalScript.js): Make the dino stay alive forever
 
     - [SpeedScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/SpeedScript.js): Make the dino run in a specific speed
+    
+    - [RequestScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/RequestScript.js): Send request to chromedino.com to upload score
 
 4. Enjoy yourself with your super dinosaur! 
 
