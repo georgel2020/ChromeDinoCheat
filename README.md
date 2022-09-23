@@ -21,6 +21,8 @@ Some javascript codes for cheating in the chrome dino game
 3. Copy the code in the 'Scripts' folder, paste in the console and press Enter
 
     - [Autoscript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/AutoScript.js): Automatically control the dino to jump or duck
+
+        
     
     - [ImmortalScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/ImmortalScript.js): Make the dino stay alive forever
 
@@ -29,8 +31,6 @@ Some javascript codes for cheating in the chrome dino game
     - [RequestScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/RequestScript.js): Send request to chromedino.com to upload score
     
     - [HighestScoreScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/HighestScoreScore.js): Change the highest score
-
-        ![image](https://user-images.githubusercontent.com/86717650/191896310-c437488a-e7cb-485e-8b98-87798375dfd2.png)
 
 4. Enjoy yourself with your super dinosaur! 
 
