@@ -22,7 +22,7 @@ Some javascript codes for cheating in the chrome dino game
 
     - [Autoscript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/AutoScript.js): Automatically control the dino to jump or duck
 
-        
+        [AutoScriptVideo.mp4](https://github.com/georgel2020/ChromeDinoScript/blob/main/Resources/AutoScriptVideo.mp4)
     
     - [ImmortalScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/ImmortalScript.js): Make the dino stay alive forever
 
