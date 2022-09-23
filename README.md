@@ -30,6 +30,8 @@ Some javascript codes for cheating in the chrome dino game
     
     - [HighestScoreScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/HighestScoreScore.js): Change the highest score
 
+        ![image](https://user-images.githubusercontent.com/86717650/191896310-c437488a-e7cb-485e-8b98-87798375dfd2.png)
+
 4. Enjoy yourself with your super dinosaur! 
 
 ### Thanks
