@@ -27,6 +27,8 @@ Some javascript codes for cheating in the chrome dino game
     - [SpeedScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/SpeedScript.js): Make the dino run in a specific speed
     
     - [RequestScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/RequestScript.js): Send request to chromedino.com to upload score
+    
+    - [HighestScoreScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/HighestScoreScore.js): Change the highest score
 
 4. Enjoy yourself with your super dinosaur! 
 
