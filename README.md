@@ -29,6 +29,8 @@ Some javascript codes for cheating in the chrome dino game
         ![ImmortalScriptImage.png](https://user-images.githubusercontent.com/86717650/191897818-332f5e81-41fb-43f3-89b1-1bcf1ea81cff.png)
 
     - [SpeedScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/SpeedScript.js): Make the dino run in a specific speed
+
+        [SpeedScriptVideo.mp4](https://github.com/georgel2020/ChromeDinoScript/blob/main/Resources/SpeedScriptVideo.mp4)
     
     - [RequestScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/RequestScript.js): Send request to chromedino.com to upload score
 
