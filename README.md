@@ -41,7 +41,3 @@ Some javascript codes for cheating in the chrome dino game
         ![HighestScoreScriptImage.png](https://user-images.githubusercontent.com/86717650/191897154-7b77074c-bc2e-4e0c-a166-664e8fe794d1.png)
 
 4. Enjoy yourself with your super dinosaur! 
-
-### Thanks
-
-Thanks to my classmate Bai Yuhan, she loves playing the dino game, and she asked me how to cheat :)
