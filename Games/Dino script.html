@@ -1,0 +1,123 @@
+<html>
+<head>
+<title>Chrome dino</title>
+</head>
+<body onContextMenu = 'return false'>
+<body>
+<font color = "red">
+Website<br/>
+</font>
+Site 1: chrome://dino<br/>
+Site 2: https://chromedino.com/<br/>
+<br/>
+<br/>
+<font color = "red">
+Step<br/>
+</font>
+( Edit )<br/>
+( Ctrl + Shift + I ) or ( F12 )<br/>
+( Console )<br/>
+( Paste )<br/>
+<br/>
+<br/>
+<font color = "red">
+Auto
+</font>
+&nbsp;&nbsp;&nbsp;
+<font color = "blue">
+Site 1 / Site 2<br/>
+</font>
+function TrexRunnerBot() {<br/>
+const makeKeyArgs = (keyCode) => {<br/>
+const preventDefault = () => void 0; return {keyCode, preventDefault}; };<br/>
+const upKeyArgs = makeKeyArgs(38); const downKeyArgs = makeKeyArgs(40); const startArgs = makeKeyArgs(32);<br/>
+if (!Runner().playing) {<br/>
+Runner().onKeyDown(startArgs); setTimeout(() => {<br/>
+Runner().onKeyUp(startArgs); }, 500); }<br/>
+function conquerTheGame() {<br/>
+if (!Runner || !Runner().horizon.obstacles[0]) return;<br/>
+const obstacle = Runner().horizon.obstacles[0];<br/>
+if (obstacle.typeConfig && obstacle.typeConfig.type === 'SNACK') return;<br/>
+if (needsToTackle(obstacle) && closeEnoughToTackle(obstacle)) tackle(obstacle); }<br/>
+function needsToTackle(obstacle) {<br/>
+return obstacle.yPos !== 50; }<br/>
+function closeEnoughToTackle(obstacle) {<br/>
+return obstacle.xPos <= Runner().currentSpeed * 18; }<br/>
+function tackle(obstacle) {<br/>
+if (isDuckable(obstacle)) {<br/>
+duck(); } else {<br/>
+jumpOver(obstacle); }<br/>
+}<br/>
+function isDuckable(obstacle) {<br/>
+return obstacle.yPos == 75; }<br/>
+function duck() {<br/>
+drop(); Runner().onKeyDown(downKeyArgs);<br/>
+setTimeout(() => {<br/>
+Runner().onKeyUp(downKeyArgs); }, 500); }<br/>
+function drop() {<br/>
+Runner().onKeyDown(downKeyArgs);<br/>
+Runner().onKeyUp(downKeyArgs); }<br/>
+function jumpOver(obstacle) {<br/>
+if (isNextObstacleCloseTo(obstacle))<br/>
+jumpFast(); else<br/>
+Runner().onKeyDown(upKeyArgs); }<br/>
+function isNextObstacleCloseTo(currentObstacle) {<br/>
+const nextObstacle = Runner().horizon.obstacles[1];<br/>
+return nextObstacle && nextObstacle.xPos - currentObstacle.xPos <=<br/>
+Runner().currentSpeed * 42; }<br/>
+function jumpFast() {<br/>
+Runner().onKeyDown(upKeyArgs); Runner().onKeyUp(upKeyArgs); }<br/>
+return {conquerTheGame: conquerTheGame}; }<br/>
+let bot = TrexRunnerBot(); let botInterval = setInterval(bot.conquerTheGame, 2); <br/>
+<br/>
+<br/>
+<font color = "red">
+Score
+</font>
+&nbsp;&nbsp;&nbsp;
+<font color = "blue">
+Site 1 / Site 2<br/>
+</font>
+let hackScore = 0;<br/>
+Object.defineProperty(Runner.instance_, 'distanceRan', {<br/>
+get: () => hackScore,<br/>
+set: (value) => hackScore = value + Math.floor(Math.random() * <b contentEditable = "true">Speed magnification</b>),<br/>
+configurable: true,<br/>
+enumerable: true,<br/>
+});<br/>
+<br/>
+<br/>
+<font color = "red">
+Life
+</font>
+&nbsp;&nbsp;&nbsp;
+<font color = "blue">
+Site 1 / Site 2<br/>
+</font>
+Runner.instance_.gameOver=function(){}<br/>
+<br/>
+<br/>
+<font color = "red">
+Speed
+</font>
+&nbsp;&nbsp;&nbsp;
+<font color = "blue">
+Site 1 / Site 2<br/>
+</font>
+Runner.instance_.setSpeed(<b contentEditable = "true">Current speed</b>)<br/>
+<br/>
+<br/>
+<font color = "red">
+Message
+</font>
+&nbsp;&nbsp;&nbsp;
+<font color = "blue">
+Site 2<br/>
+</font>
+var xhr = new XMLHttpRequest();<br/>
+xhr.open('GET', '/inc/set.php?name=' + '<b contentEditable = "true">User name</b>' + '&score=' + <b contentEditable = "true">User score</b>, false);<br/>
+xhr.send();<br/>
+<br/>
+<br/>
+</body>
+</html>
