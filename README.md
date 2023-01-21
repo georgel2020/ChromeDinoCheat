@@ -59,3 +59,5 @@ A perfect solution for cheating in the famous chrome dino game!
 |[Magic dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Magic%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Magic%20dino.html)|No cactus|
 |[Speeding dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Speeding%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Speeding%20dino.html)|The dino is moving faster and faster|
 |[Super dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Super%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Super%20dino.html)|The dino never dies|
+
+Preview links provided by [htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com). 
