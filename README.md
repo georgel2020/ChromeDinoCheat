@@ -1,4 +1,4 @@
-# Chrome Dino Script
+# Chrome Dino Cheat
 
 Scripts for cheating in chrome dino game! 
 
