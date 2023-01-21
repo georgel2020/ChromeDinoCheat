@@ -1,10 +1,11 @@
 # Chrome Dino Cheat
 
-Scripts for cheating in chrome dino game! 
+A perfect solution for cheating in the famous chrome dino game! 
 
 ### What's this
 
-Some javascript codes for cheating in the chrome dino game
+- Some javascript codes for cheating in the chrome dino game
+- Some html games based on the dino game (with new features)
 
 ### How to use
 
