@@ -42,6 +42,8 @@ A perfect solution for cheating in the famous chrome dino game!
     - [HighestScoreScript.js](https://github.com/georgel2020/ChromeDinoScript/blob/main/Scripts/HighestScoreScript.js): Change the highest score
 
         ![HighestScoreScriptImage.png](https://user-images.githubusercontent.com/86717650/191897154-7b77074c-bc2e-4e0c-a166-664e8fe794d1.png)
+        
+    - [GroundScript.js](https://github.com/georgel2020/ChromeDinoCheat/blob/main/Scripts/GroundScript.js): Set the height of ground collision so that the dino flies
 
 4. Enjoy yourself with your super dinosaur! 
 
