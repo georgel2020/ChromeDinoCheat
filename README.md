@@ -1,6 +1,6 @@
 # Chrome Dino Cheat
 
-A perfect solution for cheating in the famous chrome dino game! 
+__A perfect solution for cheating in the famous chrome dino game!__
 
 ### What's this
 
