@@ -2,6 +2,8 @@
 
 __A perfect solution for cheating in the famous chrome dino game!__
 
+Try it [here](https://georgel2020.github.io/ChromeDinoCheat/)! 
+
 ### What's this
 
 - Some javascript codes for cheating in the chrome dino game
@@ -46,20 +48,3 @@ __A perfect solution for cheating in the famous chrome dino game!__
     - [GroundScript.js](https://github.com/georgel2020/ChromeDinoCheat/blob/main/Scripts/GroundScript.js): Set the height of ground collision so that the dino flies
 
 4. Enjoy yourself with your super dinosaur! 
-
-<b>For games: </b>
-
-|File link|Preview link|Introduction|
-|:---|:---|:---|
-|[Auto super dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Auto%20super%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Auto%20super%20dino.html)|Dino game bot + immortal dino|
-|[Cloudy dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Cloudy%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Cloudy%20dino.html)|Add more clouds|
-|[Color dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Color%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Color%20dino.html)|Add colors to the game|
-|[Difficult dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Difficult%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Difficult%20dino.html)|Catus eveywhere|
-|[Disabled dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Disabled%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Disabled%20dino.html)|This dino cannot jump|
-|[Fly dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Fly%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Fly%20dino.html)|This dino can jump in the sky|
-|[Health dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Health%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Health%20dino.html)|Give you three lives|
-|[Magic dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Magic%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Magic%20dino.html)|No cactus|
-|[Speeding dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Speeding%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Speeding%20dino.html)|The dino is running faster and faster|
-|[Super dino](https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Super%20dino.html)|[Preview](https://htmlpreview.github.io/?https://github.com/georgel2020/ChromeDinoScript/blob/main/Games/Super%20dino.html)|The dino never dies|
-
-Preview links provided by [htmlpreview.github.com](https://github.com/htmlpreview/htmlpreview.github.com). 
