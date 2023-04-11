@@ -15,8 +15,11 @@
             margin: 5px;
         }
         .cheat {
-            margin: 10px;
             z-index: 3;
+            opacity: 0%;
+        }
+        .cheat:hover {
+            opacity: 100%;
         }
         .icon {
             -webkit-user-select: none;
@@ -2917,13 +2920,13 @@
 </head>
 <body id="t" class="offline">
     <div class="cheat">
-        <input type="checkbox" id="immortal" checked/>
+        <input type="checkbox" id="immortal" onclick="document.getElementById('immortal').blur()" checked/>
         <label for="immortal">Make immortal</label>
         <br/>
-        <input type="checkbox" id="twoStageJump" checked/>
+        <input type="checkbox" id="twoStageJump" onclick="document.getElementById('twoStageJump').blur()" checked/>
         <label for="twoStageJump">Enable multi-stage jump</label>
         <br/>
-        <input type="checkbox" id="float" onclick="Runner.instance_.float()"/>
+        <input type="checkbox" id="float" onclick="Runner.instance_.float();document.getElementById('float').blur()"/>
         <label for="float">Keep floating</label>
         <input type="button" value="Reload" onclick="location.reload()"/>
         <br/>
