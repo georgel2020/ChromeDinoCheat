@@ -11,6 +11,13 @@
             width: 100%;
             height: 100%;
         }
+        input {
+            margin: 5px;
+        }
+        .cheat {
+            margin: 10px;
+            z-index: 3;
+        }
         .icon {
             -webkit-user-select: none;
             user-select: none;
@@ -2908,16 +2915,22 @@
 
     </script>
 </head>
-<body id="t" class="offline" onload="autoPlay()">
-    <div id="main-frame-error" class="interstitial-wrapper">
+<body id="t" class="offline">
+    <div class="cheat">
         <input type="checkbox" id="immortal" checked/>
         <label for="immortal">Make immortal</label>
         <br/>
         <input type="checkbox" id="twoStageJump" checked/>
-        <label for="twoStageJump">Enable two-stage jump</label>
+        <label for="twoStageJump">Enable multi-stage jump</label>
         <br/>
         <input type="checkbox" id="float" onclick="Runner.instance_.float()"/>
-        <label for="twoStageJump">Keep floating</label>
+        <label for="float">Keep floating</label>
+        <input type="button" value="Reload" onclick="location.reload()"/>
+        <br/>
+        <input type="number" id="speedText"/>
+        <input type="button" value="Set speed" onclick="Runner.instance_.setSpeed(document.getElementById('speedText').value)"/>
+    </div>
+    <div id="main-frame-error" class="interstitial-wrapper">
         <div id="main-content">
             <div class="icon icon-offline" alt=""></div>
         </div>
