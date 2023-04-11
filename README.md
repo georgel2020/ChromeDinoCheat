@@ -2,7 +2,7 @@
 
 __A perfect solution for cheating in the famous chrome dino game!__
 
-Try it [here](https://georgel2020.github.io/ChromeDinoCheat/)! 
+Try it [here](https://georgel2020.github.io/ChromeDinoCheat/)! (Move your cursor to the top of the page to show cheat options. )
 
 ### What's this
 
