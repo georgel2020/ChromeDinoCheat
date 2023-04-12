@@ -1070,12 +1070,6 @@
                         this.inverted = document.body.classList.toggle(Runner.classes.INVERTED,
                             this.invertTrigger);
                     }
-                },
-
-                float: function () {
-                    Runner().tRex.groundYPos = 10;
-                    Runner().tRex.startJump(10);
-                    document.getElementById("float").disabled = true;
                 }
             };
 
@@ -2926,7 +2920,7 @@
         <input type="checkbox" id="twoStageJump" onclick="document.getElementById('twoStageJump').blur()" checked/>
         <label for="twoStageJump">Enable multi-stage jump</label>
         <br/>
-        <input type="checkbox" id="float" onclick="Runner.instance_.float();document.getElementById('float').blur()"/>
+        <input type="checkbox" id="float" onclick="Runner().tRex.groundYPos = 10;Runner().tRex.startJump(10);document.getElementById('float').disabled = true;document.getElementById('float').blur()"/>
         <label for="float">Keep floating</label>
         <input type="button" value="Reload" onclick="location.reload()"/>
         <br/>
