@@ -2925,10 +2925,10 @@
         <input type="button" value="Reload" onclick="location.reload()"/>
         <br/>
         <input type="number" id="speedText"/>
-        <input type="button" id="speedButton" value="Set speed" onclick="Runner.instance_.setSpeed(document.getElementById('speedText').value);document.getElementById('speedButton').blur()"/>
+        <input type="button" id="speedButton" value="Set speed" onclick="Runner.instance_.setSpeed(document.getElementById('speedText').value);document.getElementById('speedButton').blur();document.getElementById('speedText').value=null"/>
         <br/>
         <input type="number" id="highestScoreText"/>
-        <input type="button" id="highestScoreButton" value="Set highest score" onclick="Runner.instance_.highestScore = Math.ceil(document.getElementById('highestScoreText').value*40);Runner.instance_.distanceMeter.setHighScore(Math.ceil(document.getElementById('highestScoreText').value*40));document.getElementById('highestScoreButton').blur()"/>
+        <input type="button" id="highestScoreButton" value="Set highest score" onclick="Runner.instance_.highestScore = Math.ceil(document.getElementById('highestScoreText').value*40);Runner.instance_.distanceMeter.setHighScore(Math.ceil(document.getElementById('highestScoreText').value*40));document.getElementById('highestScoreButton').blur();document.getElementById('highestScoreText').value=null"/>
     </div>
     <div id="main-frame-error" class="interstitial-wrapper">
         <div id="main-content">
